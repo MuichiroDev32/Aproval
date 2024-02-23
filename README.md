@@ -1,5 +1,5 @@
 ### Hi there 👋, Iam JAY MAR x S3M1TSU
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN PHILIPPINES- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
 
@@ -12,7 +12,7 @@
 
 #### A NOOB DEVOLAPAR 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+YOUSUF+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+YOUSUF-NIZAMI+😊;It's+my+real+github+account+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+JAY MAR x S3M1TSU+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+YOUSUF-NIZAMI+😊;It's+my+real+github+account+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Philippines)](https://git.io/typing-svg)
 <br/>
 <br/>
 <br/>
@@ -28,7 +28,7 @@ Skills: PYTHON & HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSUF-NIZAMI )](https://github.com/anuraghazra/github-readme-stats)
 
-![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUSUF-NIZAMI&show_icons=true&theme=chartreuse-dark)  
+![P4RVEJ's GitHub stats](https://github.com/MuichiroDev32)  
 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=P4RVEJ&layout=compact&theme=chartreuse-dark" />
